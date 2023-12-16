@@ -1,0 +1,6 @@
+pandas==2.1.4
+numpy
+matplotlib
+seaborn
+scikit-learn
+tensorflow[and-cuda]

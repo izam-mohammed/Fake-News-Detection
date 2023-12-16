@@ -117,3 +117,5 @@ artifacts/
 #catboost
 catboost_info/
 reports/
+
+data
