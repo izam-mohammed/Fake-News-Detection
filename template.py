@@ -64,7 +64,6 @@ for filepath in list_of_files:
 
 # writing data
 def get_data(data_url, data_name):
-    os.makedirs("data", exist_ok=True)
     request.urlcleanup()
     file_name, headers = request.urlretrieve(data_url, data_name)
 
